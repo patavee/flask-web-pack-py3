@@ -2,3 +2,4 @@ Flask
 uwsgi
 flask-swagger
 flask-restful
+flask-pymongo
