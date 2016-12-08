@@ -1,7 +1,6 @@
 Flask
 uwsgi
-flask-restful-swagger-2
-flask-restful
+flask-restplus
 flask-pymongo
 pytz
 dateutils
