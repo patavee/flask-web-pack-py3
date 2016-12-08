@@ -1,6 +1,6 @@
 Flask
 uwsgi
-flask-swagger
+flask-restful-swagger-2
 flask-restful
 flask-pymongo
 pytz
