@@ -1,5 +1,5 @@
 
-FROM patavee/python3
+FROM python:3.6
 MAINTAINER Patavee Charnvivit <patavee@gmail.com>
 
 RUN apt-get update && apt-get install -y \
