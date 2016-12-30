@@ -10,3 +10,4 @@ twilio
 marshmallow
 requests
 celery
+redis
