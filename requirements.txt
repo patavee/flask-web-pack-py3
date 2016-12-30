@@ -9,3 +9,4 @@ pykwalify
 twilio
 marshmallow
 requests
+celery
